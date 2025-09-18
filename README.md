@@ -7,4 +7,4 @@
 
 ## 라이브 데모
 - 포트폴리오사이트 : https://takkyoosong.github.io/portpolio2/
-- 테트리스 게임 : https://[github.com/takkyooSong/portpolio2/tetris.html
+- 테트리스 게임 : https://takkyooSong.github.io/portpolio2/tetris.html

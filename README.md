@@ -1,8 +1,9 @@
-# portpolio2
-포트폴리오재차
+# AI developer portpolio
+나의 포트폴리오
+인공지능, 데이터분석. 임베디드 개발 전문가
 
 ## 기술스텍
-ai 왕초보, 데이터분석가 쬐금
+- AI, ML, DL
 
 ## 라이브 데모
 - 포트폴리오사이트 : https://github.com/takkyooSong/portpolio2/
